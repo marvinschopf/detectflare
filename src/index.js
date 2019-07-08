@@ -22,7 +22,7 @@ let response = null
 
 // request website and load response to variable
 request
-	.get("https://schoolstats.de")
+	.get("https://npmjs.com")
 	.on('response', (resp) => {
 		success("HTTP request successful.")
 	})

@@ -1,0 +1,10 @@
+{
+  "name": "detectflare",
+  "version": "1.0.0",
+  "description": "Tool to detect websites using CloudFlare",
+  "main": "src/index.js",
+  "repository": "https://github.com/MagicMarvMan/detectflare",
+  "author": "MagicMarvMan <marvin.kai@gmx.de>",
+  "license": "MIT",
+  "private": false
+}

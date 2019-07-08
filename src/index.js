@@ -19,6 +19,9 @@ const warn = (msg) => {
 // set response variable to null
 let response = null
 
+// create resulsts array
+let results = { }
+
 
 // request website and load response to variable
 request

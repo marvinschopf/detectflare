@@ -19,7 +19,7 @@ const warn = (msg) => {
 // set response variable to null
 let response = null
 
-// create resulsts array
+// create results array
 let results = { }
 
 
